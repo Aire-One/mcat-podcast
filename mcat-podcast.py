@@ -55,14 +55,13 @@ def update_progress (size, total) :
 
 def usage () :
     print ("""
-    Monstercat Podcast Dowloader !
+    Tool for Monstercat Podcast !
 
-usage : dl-mcatPodcast.py <options>
+usage : mcat-podcast.py -hlsd <options>
 options :
     -h --help : print this help
-    -v --verbose : blah
     -l --list : give all episodes title
-    -s --summary : provide the summary of the episodes (contains tracklist and some other cool informations)
+    -s --summary : provide the summary of the episodes (contains tracklist and some other cool information)
     -d --download : download the specified podcast""")
 
 
