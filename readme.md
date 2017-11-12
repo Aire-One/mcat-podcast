@@ -1,7 +1,7 @@
-#mcat-podcast.py A tool for Monstercat Podcast !
+# mcat-podcast.py A tool for Monstercat Podcast !
 *desc [todo]*
 
-##Usage
+## Usage
 ```mcat-podcast.py -hlsd <options>```
 
 **args :**
@@ -10,7 +10,7 @@
 -s --summary : provide the summary of the episodes (contains tracklist and some other cool information)
 -d --download : download the specified podcast
 
-##To do
+## To do
 * use optparse instead of getopt
 * caching system for feeds
 * better outputs
